@@ -29,8 +29,7 @@ The Order summary card challenge should be concluded using HTML5 and CSS. In the
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://gchiquetto.github.io/order-summary/
 
 ## My process
 
