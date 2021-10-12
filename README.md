@@ -30,6 +30,7 @@ The Order summary card challenge should be concluded using HTML5 and CSS. In the
 ### Links
 
 - Solution URL: https://gchiquetto.github.io/order-summary/
+- Live URL: https://gchiquetto.github.io/order-summary/
 
 ## My process
 
