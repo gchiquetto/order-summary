@@ -21,7 +21,7 @@ body{
     color:hsl(224, 23%, 55%);
   }
 
-  .container{
+  main{
     margin: 80px auto;
     background-color: white;
     border-radius: 10px;
@@ -56,7 +56,7 @@ body{
 
   }
 
-  h3{
+  h2{
     color:hsl(223, 47%, 23%);
     margin-left: 15px;
     margin-bottom: 0;
@@ -131,7 +131,7 @@ body{
 }
 
 @media screen and (max-device-width: 700px) {
-  .container{
+  main{
     margin: 180px auto;
     background-color: white;
     border-radius: 50px;
@@ -160,7 +160,7 @@ body{
 
   }
 
-  h2{
+  h1{
     font-size: 3.2vh;
     color:hsl(223, 47%, 23%);
   }
@@ -179,11 +179,11 @@ body{
 
   }
 
-  h3{
+  h2{
     color:hsl(223, 47%, 23%);
     margin-left: 23.250px;
     margin-bottom: 0;
-    font-size: 2.1vh;
+    font-size: 1.9vh;
 
   }
 
