@@ -74,6 +74,7 @@ body{
 
 ## Author
 
-- Website - [Linkedin](https://www.linkedin.com/in/gabriela-chiquetto-b6917533/)
-- Frontend Mentor - [@gchiquetto](https://www.frontendmentor.io/profile/gchiquetto)
+- [Linkedin](https://www.linkedin.com/in/gabriela-chiquetto-b6917533/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/gchiquetto)
+
 
