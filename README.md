@@ -57,7 +57,7 @@ I nested divs in order to use css flexbox to create the area that contais the pl
 ```
 
 #### CSS
-I've learnt how to add images using CSS, which was good for setting the body background in the same was that was asked in the challenge. I also explored more the background- options.
+I've learnt how to add images using CSS, which was good for setting the body background in the same way that was asked in the challenge. I also explored more the background- options.
 
 ```css
 body{
